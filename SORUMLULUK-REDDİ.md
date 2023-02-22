@@ -1,0 +1,9 @@
+# Sorumluluk reddi:  
+Buradan paylaşılan bilgi ve belgeler -her ne kadar avukatlar tarafından hazırlanmış da olsalar- örnek olarak hazırlanmıştır.  
+Yine değişen mevzuatlar ve gelişen şartlar doğrultusunda bunlar geçerliliklerini yitirmiş olabilir.  
+Hak kayıplarına uğramamak adına her zaman güncel bilgi ve belgeleri mutlaka ama mutlaka bir avukattan edinin.  
+Buradaki bilgi ve belgeler değiştirilebilir ve güncellenebilir nitelikte olduğundan, bunlardan doğabilecek her türlü  
+hak kaybından bilgi ve belgeyi kullanan sorumludur. Bu bilgi ve belgelerin kullanılması halinde, bütün sorumluluğun kişinin  
+kendisinde olduğunu kişi açıkça kabul etmektedir. Hak kayıplarına ilişkin bilgi ve belgeleri oluşturanların, paylaşanların herhangi bir  
+sorumluluğunun bulunmadığı da kişi tarafından açıkça kabul edilmiştir. Bunu kabul etmeyen kişilerin bilgi ve belgeleri kullanmaması  
+gerekmektedir.  
