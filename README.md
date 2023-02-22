@@ -25,7 +25,7 @@ gerekmektedir.
 # Dikkat edilmesi gereken temel hususlar:  
 - Bilgi ve belgelerin doğruluğu ve güncelliği mutlaka bir avukattan teyit edilmelidir.  
 - Dilekçe içeriği bir avukat tarafından değiştirilip, düzenlenmelidir.  
-- İlgili idarelere verilen dilekçelerin verilme tarihi ve teslim edilen kurumca belirlenen evrak kayıt mumarası mutlaka not edilmelidir.  
+- İlgili idarelere verilen dilekçelerin verilme tarihi ve teslim edilen kurumca belirlenen evrak kayıt numarası mutlaka not edilmelidir.  
   
 # Nasıl faydalanırım?  
 Yol haritalarını takip ederek, sürece nasıl başlayıp hangi süre içerisinde nereye ne şekilde başvurmanız gerektiğini görebilirsiniz.  
