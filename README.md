@@ -4,8 +4,8 @@
   
 # Manifesto:
 Merhaba depremzede hemşerim, burada olduğuna göre deprem bürokrasisi ile ilgili yardıma ihtiyacın var muhtemelen.  
-Öncelikle hepimizin başı sağolsun. Gidenleri anılarla yaşatabileceğimiz bir Samansağ yaratmak için birlikte mücadele etmemiz gerekiyor.   
-Birliğimiz ve Türk halkının desteği ile bu zor günleri atlatacağımızdwn hiç şüphem yok.  
+Öncelikle hepimizin başı sağolsun. Gidenleri anılarla yaşatabileceğimiz bir Samandağ yaratmak için birlikte mücadele etmemiz gerekiyor.   
+Birliğimiz ve Türk halkının desteği ile bu zor günleri atlatacağımızdan hiç şüphem yok.  
   
 # Bu nedir?  
 Bu github projesi, deprem sonrası vatandaşların bürokratik engelleri aşabilmesi ve hak kaybına uğramaması için gönüllü avukatlarca geliştirilen,  
@@ -27,4 +27,16 @@ gerekmektedir.
 - Dilekçe içeriği bir avukat tarafından değiştirilip, düzenlenmelidir.  
 - İlgili idarelere verilen dilekçelerin verilme tarihi ve teslim edilen kurumca belirlenen evrak kayıt mumarası mutlaka not edilmelidir.  
   
-
+# Nasıl faydalanırım?  
+Yol haritalarını takip ederek, sürece nasıl başlayıp hangi süre içerisinde nereye ne şekilde başvurmanız gerektiğini görebilirsiniz.  
+Bu yol haritaları mevcut mevzuatlar, AFAD, Bakanlıklar ve benzeri kurumların duyuru ve el kitapçıklarından derlenecektir.  
+Prosedürleri aşama aşama ve sırasıyla yürütüp başvuru ve dava açma sürelerine dikkat etmeniz gerekmektedir. Vaktinde yapılmayan başvuru,  
+açılmayan dava neticesinde hak kaybına uğramanız kuvvetle muhtemeldir.  Yol haritaları 1-, 2- şeklinde sıralanmış olup, yukarıdaki files. 
+bölümünden sırasıyla erişebilirsiniz.  
+  
+# Bu projeye destek vermek istiyorum.  
+Şu aşamada maddi herhangi bir desteğe ihtiyaç yoktur. Bu yöndeki talepler kabul görmeyecektir.  
+Yol haritaları, bilgi ve belgelerin güncellenmesi noktasında hukukçuların, mühendislerin ve  
+ilgili odalar ile sivil toplum kuruluşlarının her türlü geliştirme ve değiştirme talebine,  
+görüş ve önerilerine memnuniyetle açığız. Bu öneriler github üzerinden standart şekilde  
+clone+pull resquest şeklinde olabileceği fivi issue şeklinde de talep olunabilir. Ya da doğrudan eposta@avalibeyaz.com mail adresine de iletebilirsiniz.  
