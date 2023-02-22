@@ -13,6 +13,7 @@ prosedürlere ilişkin yol haritaları, örnek dilekçeler ve başkaca bilgi ve 
 Dökümanların değiştirilmesi, geliştirilmesi, serbestçe dağıtılması ve GPLv3 lisansının sağladığı bütün hakların kullanılması serbest ve bedelsizdir.  
   
 # Sorumluluk reddi:  
+[Güncel şartname](https://github.com/symbuzzer/samandag-deprem/blob/main/SORUMLULUK-REDD%C4%B0.md)
 Buradan paylaşılan bilgi ve belgeler -her ne kadar avukatlar tarafından hazırlanmış da olsalar- örnek olarak hazırlanmıştır.  
 Yine değişen mevzuatlar ve gelişen şartlar doğrultusunda bunlar geçerliliklerini yitirmiş olabilir.  
 Hak kayıplarına uğramamak adına her zaman güncel bilgi ve belgeleri mutlaka ama mutlaka bir avukattan edinin.  
@@ -39,7 +40,7 @@ bölümünden sırasıyla erişebilirsiniz.
 Yol haritaları, bilgi ve belgelerin güncellenmesi noktasında hukukçuların, mühendislerin ve  
 ilgili odalar ile sivil toplum kuruluşlarının her türlü geliştirme ve değiştirme talebine,  
 görüş ve önerilerine memnuniyetle açığız. Bu öneriler github üzerinden standart şekilde  
-clone+pull resquest şeklinde olabileceği fivi issue şeklinde de talep olunabilir. Ya da doğrudan eposta@avalibeyaz.com mail adresine de iletebilirsiniz.  
+clone+pull resquest şeklinde olabileceği gibi issue şeklinde de talep olunabilir. Ya da doğrudan eposta@avalibeyaz.com mail adresine de iletebilirsiniz.  
   
 # Biz kimiz?  
 - Github yönetimi, kaynakça hazırlanması, bilgi ve belgelerin derlenmesi şahsım, [Avukat Ali BEYAZ](https://avalibeyaz.com) tarafından sağlanmaktadır. 
