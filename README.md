@@ -45,5 +45,5 @@ clone+pull request şeklinde olabileceği gibi issue şeklinde de talep olunabil
 # Biz kimiz?  
 - Github yönetimi, kaynakça hazırlanması, bilgi ve belgelerin derlenmesi şahsım, [Avukat Ali BEYAZ](https://avalibeyaz.com) tarafından sağlanmaktadır.  
   
-# Lisans:. 
+# Lisans: 
 [GPLv3](https://github.com/symbuzzer/samandag-deprem/blob/main/LICENSE)  
