@@ -40,7 +40,7 @@ bölümünden sırasıyla erişebilirsiniz.
 Yol haritaları, bilgi ve belgelerin güncellenmesi noktasında hukukçuların, mühendislerin ve  
 ilgili odalar ile sivil toplum kuruluşlarının her türlü geliştirme ve değiştirme talebine,  
 görüş ve önerilerine memnuniyetle açığız. Bu öneriler github üzerinden standart şekilde  
-clone+pull resquest şeklinde olabileceği gibi issue şeklinde de talep olunabilir. Ya da doğrudan eposta@avalibeyaz.com mail adresine de iletebilirsiniz.  
+clone+pull request şeklinde olabileceği gibi issue şeklinde de talep olunabilir. Ya da doğrudan eposta@avalibeyaz.com mail adresine de iletebilirsiniz.  
   
 # Biz kimiz?  
 - Github yönetimi, kaynakça hazırlanması, bilgi ve belgelerin derlenmesi şahsım, [Avukat Ali BEYAZ](https://avalibeyaz.com) tarafından sağlanmaktadır. 
