@@ -19,7 +19,12 @@ Fakat bilhassa kulaktan kulağa yayılan itiraz sürecinin beklenmeden yıkımla
 İtirazın kimler tarafından yapılacağı açık olarak düzenlenmemekle ve bu konuda herhangi bir resmi açıklamanın varlığı bilinmemekle birlikte, [7269 sayılı Umumi Hayata Müessir Afetler Dolayısiyle Alıncak Tedbirlerle Yapılacak Yardımlara Dair Kanun](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7269&MevzuatTur=1&MevzuatTertip=3)'un 13. maddesinin söyleminden "mal sahibi veya vekilinin" itiraz edebileceği anlaşılmaktadır. Kiracı, ayni ya da nısbi hak sahibi başka kimselerin itiraz edip etmeyeceği hususunda hak kaybı yaşanmaması adına mutlaka bilgi alınarak işlem yapılmalıdır. Bu husus tarafımızca halen araştırılmaktadır. Ancak muhtemelen askı aşamasında itiraz hakkı bulunanların isimleri listede yer alacaktır. Bu durumda listede adı bulunan kimselerin itiraz etmesi gerektiği kanaatindeyiz.   
   
 ------
-## - İTİRAZ DİLEKÇESİNİ NASIL DÜZENLEMELİYİM?
+## - İtiraz dilekçesini nasıl düzenlemeliyim?
 - Her şeyden önce dilekçenin çıktısını almanız mümkün değilse aynı şekilde elinizle temiz bir kağıda yazmanız gerekmektedir.  
 - Dilekçenin en sütündeki tarih kısmını ve en alttaki Telefon, Telefon 2, Adres ve TC No: kısımlarını doldurunuz.  
 - İlgi kısmına yapınızın tapu bilgilerini (mahalle adı, ada ve parsel no) ve yapının resmi adresini girmelisiniz.  Tapu bilgilerini [E-devlet Takbis servisi](https://www.turkiye.gov.tr/tapu-bilgileri-sorgulama)'nden öğrenebilirsiniz. Aynı şekilde adres bilgilerinizi de eğer ikametgahınız o bina idiyse [E-devlet Mernis servisi](https://www.turkiye.gov.tr/nvi-yerlesim-yeri-ve-diger-adres-belgesi-sorgulama)'nden öğrenebilirsiniz.  
+- Dilekçeyi el yazısıyla yazıyor olmanız halinde, baştan sonra dikkatle okuyarak durumunuza uygun olmayan kısımları dilekçenize aktarmayın. Birden fazla ihtimalli durumlar "/" işareti ile ayrılmış olup bunlardan ancak 1 tanesi sizin durumunuza uymaktadır. Dolayısıyla bunlardan sizi uygun olanını dilekçenize aktarmanız yeterlidir. Bunu yaptıktan sonra yazdığınız dilekçenizi mutlaka son kez baştan sona okuyup kontrol edin.  
+- Dilekçenin doğrudan çıktısını almanız halinde, yine dilekçeyi baştan aşağı okuyarak "/" işareti ile ayrılan kısımlardan sizinle ilgili olmayan kısımların üzerini hafifçe karalayarak çizin. Bunu yaptıktan sonra yazdığınız dilekçenizi mutlaka son kez baştan sona okuyup kontrol edin.  
+- En son olarak İsim Soyisim ve İmza kısımlarını doldurun.  
+- Unutmayın dilekçenizi bizzat kendiniz veya vekil ya da yasal temsilciniz vermelisiniz.  
+- Mümkün olması halinde yapıya ait tapu suretinizi ve kimlik kartı suretinizi de dilekçenizin ekine ekleyin.  
