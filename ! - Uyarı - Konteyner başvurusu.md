@@ -8,4 +8,6 @@ Bu durum vatandaşlar arasında özellikle sosyal medya gruplarında "konteyner 
   
 Yukarıdan da görülebileceği üzere; hasar durumu "Vatandaş Beyanı" olarak kayıt altına alınmaktadır. Her ne kadar aşağıdaki açıklamada Bakanlıkça tespit edilen durumun girilmesi istenmiş ise de, kurumun kendisinin rahatça erişebileceği bina hasar durumunu vatandaşa bir daha seçtirmesinin, ileriki süreçte binanın vatandaşça da hasarlı olarak kabul edildiği şeklinde yorumlanabilmesine yol açabileceği kanaatindeyiz.  
   
-Yani konteyner başvurusunda bulunmak isterken bizzat kendi beyanınızla binanızı hasarlı olarak beyan etmeniz, ileride ciddi hak kayıplarına yol açabilecektir. Bu doğrultuda, bu başvuruyu yaparken yukarıdaki durumu da göz önünde bulundurarak hareket etmekte fayda var.  
+Yani konteyner başvurusunda bulunmak isterken bizzat kendi beyanınızla binanızı gerçek durumla bağdaşmayacak şekilde ağır hasarlı olarak beyan etmeniz, ileride ciddi hak kayıplarına yol açabilecektir. Bu doğrultuda, bu başvuruyu yaparken yukarıdaki durumu da göz önünde bulundurarak hareket etmekte fayda var. 
+  
+Yine sosyal medyada yer alan [Bakanlık açıklaması](https://www.instagram.com/reel/Co-X1cluVOd/?igshid=MDJmNzVkMjY=) uyarınca; ilçemizdeki binaların hasar durumlarının tekrardan gözden geçirileceği göz önünde bulundurulduğunda, halkımızın e-devlet üzerinden hasar tespitlerinin takibine devam etmeleri gerekmektedir.
