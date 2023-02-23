@@ -40,6 +40,9 @@ Buradan paylaşılan bilgi ve belgeler -her ne kadar avukatlar tarafından hazı
 - İçeriklerin hazırlanması, kaynakça hazırlanması, bilgi ve belgelerin derlenmesi [Avukat Gökhan SÜSLÜ](https://www.google.com/search?q=Avukat+G%C3%B6khan+S%C3%9CSL%C3%9C)  
 - İçeriklerin hazırlanması, kaynakça hazırlanması, bilgi ve belgelerin derlenmesi [Avukat Süleyman Bedir ABACI](https://www.google.com/search?q=Avukat+S%C3%BCleyman+Bedir+ABACI)  
 - İçeriklerin hazırlanması, kaynakça hazırlanması, bilgi ve belgelerin derlenmesi [Avukat Fidel DOĞRU](https://www.google.com/search?q=Av.+Fidel+DO%C4%9ERU)  
+- İçeriklerin hazırlanması, kaynakça hazırlanması, bilgi ve belgelerin derlenmesi [Avukat Berna EK](https://www.google.com/search?q=Av.+Berna+EK)  
+- İçeriklerin hazırlanması, kaynakça hazırlanması, bilgi ve belgelerin derlenmesi [Avukat Cuma IRMAK](https://www.google.com/search?q=Av.+Cuma+IRMAK)  
+- İçeriklerin hazırlanması, kaynakça hazırlanması, bilgi ve belgelerin derlenmesi [Avukat Öznur ÖZKAN](https://www.google.com/search?q=Av.+%C3%96znur+%C3%96ZKAN)  
   
 ------
 ## Kaynakça: 
