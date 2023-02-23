@@ -43,4 +43,7 @@ görüş ve önerilerine memnuniyetle açığız. Bu öneriler github üzerinden
 clone+pull request şeklinde olabileceği gibi issue şeklinde de talep olunabilir. Ya da doğrudan eposta@avalibeyaz.com mail adresine de iletebilirsiniz.  
   
 # Biz kimiz?  
-- Github yönetimi, kaynakça hazırlanması, bilgi ve belgelerin derlenmesi şahsım, [Avukat Ali BEYAZ](https://avalibeyaz.com) tarafından sağlanmaktadır. 
+- Github yönetimi, kaynakça hazırlanması, bilgi ve belgelerin derlenmesi şahsım, [Avukat Ali BEYAZ](https://avalibeyaz.com) tarafından sağlanmaktadır.  
+  
+# Lisans:. 
+[GPLv3](https://github.com/symbuzzer/samandag-deprem/blob/main/LICENSE)  
