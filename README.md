@@ -2,6 +2,7 @@
   
 "Olağanüstü dönemler, olağanüstü çabalar gerektirir..."  
   
+------
 ## Manifesto:
 Merhaba depremzede hemşerim, burada olduğuna göre deprem bürokrasisi ile ilgili yardıma ihtiyacın var muhtemelen. Öncelikle hepimizin başı sağolsun. Gidenleri anılarla yaşatabileceğimiz bir Samandağ yaratmak için birlikte mücadele etmemiz gerekiyor. Birliğimiz ve Türk halkının desteği ile bu zor günleri atlatacağımızdan hiç şüphem yok.  
   
