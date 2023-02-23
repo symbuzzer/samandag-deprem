@@ -1,6 +1,6 @@
 # Samandağ halkı için deprem bürokrasi kaynağı...  
   
-"Olağanüstü dönemler, olağanüstü çabalar gerektirir..."  
+*"Olağanüstü dönemler, olağanüstü çabalar gerektirir..."*  
   
 ------
 ## Manifesto:
