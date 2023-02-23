@@ -35,7 +35,9 @@ Buradan paylaşılan bilgi ve belgeler -her ne kadar avukatlar tarafından hazı
   
 ------
 ## Biz kimiz?  
-- Github yönetimi, kaynakça hazırlanması, bilgi ve belgelerin derlenmesi şahsım, [Avukat Ali BEYAZ](https://avalibeyaz.com) tarafından sağlanmaktadır.  
+- Github yönetimi, içeriklerin hazırlanması, kaynakça hazırlanması, bilgi ve belgelerin derlenmesi şahsım, [Avukat Ali BEYAZ](https://avalibeyaz.com) tarafından sağlanmaktadır.  
+- İçeriklerin hazırlanması, kaynakça hazırlanması, bilgi ve belgelerin derlenmesi [Avukat Gökhan SÜSLÜ](https://www.google.com/search?q=Avukat+G%C3%B6khan+S%C3%9CSL%C3%9C)  
+- İçeriklerin hazırlanması, kaynakça hazırlanması, bilgi ve belgelerin derlenmesi [Avukat Süleyman Bedir ABACI](https://www.google.com/search?q=Avukat+S%C3%BCleyman+Bedir+ABACI)  
   
 ------
 ## Kaynakça: 
