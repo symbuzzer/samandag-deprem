@@ -13,7 +13,7 @@ prosedürlere ilişkin yol haritaları, örnek dilekçeler ve başkaca bilgi ve 
 Dökümanların değiştirilmesi, geliştirilmesi, serbestçe dağıtılması ve GPLv3 lisansının sağladığı bütün hakların kullanılması serbest ve bedelsizdir.  
   
 # Sorumluluk reddi:  
-[Güncel şartname](https://github.com/symbuzzer/samandag-deprem/blob/main/SORUMLULUK-REDD%C4%B0.md)  
+[Güncel şartname](https://github.com/symbuzzer/samandag-deprem/blob/main/SORUMLULUK%20REDD%C4%B0.md)  
 Buradan paylaşılan bilgi ve belgeler -her ne kadar avukatlar tarafından hazırlanmış da olsalar- örnek olarak hazırlanmıştır.  
 Yine değişen mevzuatlar ve gelişen şartlar doğrultusunda bunlar geçerliliklerini yitirmiş olabilir.  
 Hak kayıplarına uğramamak adına her zaman güncel bilgi ve belgeleri mutlaka ama mutlaka bir avukattan edinin.  
