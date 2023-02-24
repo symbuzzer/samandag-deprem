@@ -8,7 +8,7 @@ Hem [Çevre, Şehircilik ve İklim Değişikliği Bakanlığı](https://www.ntv.
   
 Fakat bilhassa kulaktan kulağa yayılan itiraz sürecinin beklenmeden yıkımlara başlandığı veya başlanacağı yönündeki söylentiler doğrultusunda isteyen vatandaşlar dilekçe üzerinde ilgili değişikliği yaparak askı süresinden önce de başvuru yapmak keyfiyetine sahiptirler. Bu durumda ne olur ne olmaz, askıdan sonra süresi içerisinde 2. bir dilekçe vermelerinde hak kaybı yaşamamaları adına fayda görülmektedir.  
   
-Yıkık ve acil yıktırılacak yapılarla alakalı süreç farklı işlediğinden lütfen bu durumdaki yapınızla ilgili bu rehberi kullanmayınız. Aksi halde hal kaybı yaşamanız kuvvetle muhtemeldir.
+Yıkık ve acil yıktırılacak yapılarla alakalı süreç farklı işlediğinden lütfen bu durumdaki yapınızla ilgili bu rehberi kullanmayınız. Aksi halde hak kaybı yaşamanız kuvvetle muhtemeldir.
   
 ------
 ## - Nereye itiraz etmeliyiz?  
