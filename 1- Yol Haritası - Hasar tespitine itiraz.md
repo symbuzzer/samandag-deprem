@@ -16,7 +16,7 @@ Fakat bilhassa kulaktan kulağa yayılan itiraz sürecinin beklenmeden yıkımla
   
 ------
 ## - Kimler itiraz edebilir?  
-İtirazın kimler tarafından yapılacağı açık olarak düzenlenmemekle ve bu konuda herhangi bir resmi açıklamanın varlığı bilinmemekle birlikte, [7269 sayılı Umumi Hayata Müessir Afetler Dolayısiyle Alıncak Tedbirlerle Yapılacak Yardımlara Dair Kanun](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7269&MevzuatTur=1&MevzuatTertip=3)'un 13. maddesinin söyleminden "mal sahibi veya vekilinin" itiraz edebileceği anlaşılmaktadır. Kiracı, ayni ya da nısbi hak sahibi başka kimselerin itiraz edip etmeyeceği hususunda hak kaybı yaşanmaması adına mutlaka bilgi alınarak işlem yapılmalıdır. Bu husus tarafımızca halen araştırılmaktadır. Ancak muhtemelen askı aşamasında itiraz hakkı bulunanların isimleri listede yer alacaktır. Bu durumda listede adı bulunan kimselerin itiraz etmesi gerektiği kanaatindeyiz.   
+İtirazın kimler tarafından yapılacağı açık olarak düzenlenmemekle ve bu konuda herhangi bir resmi açıklamanın varlığı bilinmemekle birlikte, [7269 sayılı Umumi Hayata Müessir Afetler Dolayısiyle Alıncak Tedbirlerle Yapılacak Yardımlara Dair Kanun](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7269&MevzuatTur=1&MevzuatTertip=3)'un 13. maddesinin söyleminden ve İçişleri Bakanlığı Afet ve Acil Durum Yönetimi Başkanlığının [E-89354291-010.06.02-494518 sayılı genelgesi](https://github.com/symbuzzer/samandag-deprem/blob/main/i%C3%A7erikler/dosya-tahliye-genelgesi.pdf)'nin 4ve 5. maddelerinden "mal sahibi veya vekilinin" itiraz edebileceği anlaşılmaktadır. Kiracı, ayni ya da nısbi hak sahibi başka kimselerin itiraz edip etmeyeceği hususunda hak kaybı yaşanmaması adına mutlaka bilgi alınarak işlem yapılmalıdır. Ancak muhtemelen askı aşamasında itiraz hakkı bulunanların isimleri listede yer alacaktır. Bu durumda listede adı bulunan kimselerin itiraz etmesi gerektiği kanaatindeyiz.   
   
 ------
 ## - İtiraz dilekçesini nasıl düzenlemeliyim?
@@ -28,3 +28,7 @@ Fakat bilhassa kulaktan kulağa yayılan itiraz sürecinin beklenmeden yıkımla
 - En son olarak İsim Soyisim ve İmza kısımlarını doldurun.  
 - Unutmayın dilekçenizi bizzat kendiniz veya vekil ya da yasal temsilciniz vermelisiniz.  
 - Mümkün olması halinde yapıya ait tapu suretinizi ve kimlik kartı suretinizi de dilekçenizin ekine ekleyin.  
+  
+------
+## - İtiraz sürecinden sonra ne olacak?  
+Buna ilişkin olarak ayrı bir çalışma hazırlayıp yine buradan yayınlayacağız.  
