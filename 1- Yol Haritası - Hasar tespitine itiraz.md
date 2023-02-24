@@ -1,6 +1,6 @@
 # Hasar tespitine nasıl itiraz edilir?
   
-*Not: Bu rehber, yapısı hasar görmemiş veya az hasar görmüş yapı sahiplerinin faydalanması amacıyla hazırlanmıştır. Yapısı gerçekten tehlike arz eden yapılar ile ilgili kullanılmaması gerekmektedir. Bu amaçla kullanımdan kaynaklı sorumluluk kullanana ve kullanım sonucunda işlem gerçekleştirenlere aittir. Bundan ötürü bu haritayı hazılayanlara herhangi bir sorumluluk atfedilemeyeceğini kullanıca peşinen kabul etmektedir. Buna ek olarak genel [sorumluluk reddi](https://github.com/symbuzzer/samandag-deprem/blob/main/SORUMLULUK%20REDD%C4%B0.md) şartları bu rehber için de geçerlidir.*  
+*Not: Bu rehber, yapısı hasar görmemiş veya az hasar görmüş ancak ağır hasarlı olarak tespiti yapılmış yapı sahiplerinin faydalanması amacıyla hazırlanmıştır. Gerçekten tehlike arz eden yapılar olan yıkık ve acil yıktırılacak yapılar ile ilgili kullanılmaması gerekmektedir. Zira yıkık ve acil yıktırılacak yapılarla ilgili işeyiş, itiraz ve başvuru süreleri gibi bir çok prosedür farklıdır. Bu amaçla kullanımdan kaynaklı sorumluluk kullanana ve kullanım sonucunda işlem gerçekleştirenlere aittir. Bundan ötürü kullanıcı tarafından bu yol haritasını hazılayanlara herhangi bir sorumluluk atfedilemeyeceğini kullanıca peşinen kabul edilmektedir. Buna ek olarak genel [sorumluluk reddi](https://github.com/symbuzzer/samandag-deprem/blob/main/SORUMLULUK%20REDD%C4%B0.md) şartları bu rehber için de geçerlidir.*  
   
 ------
 ## - Ne zaman itiraz etmeliyiz?  
@@ -8,7 +8,7 @@ Hem [Çevre, Şehircilik ve İklim Değişikliği Bakanlığı](https://www.ntv.
   
 Fakat bilhassa kulaktan kulağa yayılan itiraz sürecinin beklenmeden yıkımlara başlandığı veya başlanacağı yönündeki söylentiler doğrultusunda isteyen vatandaşlar dilekçe üzerinde ilgili değişikliği yaparak askı süresinden önce de başvuru yapmak keyfiyetine sahiptirler. Bu durumda ne olur ne olmaz, askıdan sonra 2. bir dilekçe vermelerinde hak kaybı yaşamamaları adına fayda görülmektedir.  
   
-
+Yıkık ve acil yıktırılacak yapılarla alakalı süreç farklı işlediğinden lütfen bu durumdaki yapınızla ilgili bu rehberi kullanmayınız. Aksi halde hal kaybı yaşamanız kuvvetle muhtemeldir.
   
 ------
 ## - Nereye itiraz etmeliyiz?  
