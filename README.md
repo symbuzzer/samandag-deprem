@@ -19,7 +19,7 @@ Buradan paylaşılan bilgi ve belgeler -her ne kadar avukatlar tarafından hazı
 ## Dikkat edilmesi gereken temel hususlar:  
 - Bilgi ve belgelerin doğruluğu ve güncelliği mutlaka bir avukattan teyit edilmelidir.  
 - Dilekçe içeriği bir avukat tarafından değiştirilip, düzenlenmelidir.  
-- İlgili idarelere verilen dilekçelerin verilme tarihi ve teslim edilen kurumca belirlenen evrak kayıt numarası mutlaka not edilmelidir.  
+- İlgili idarelere verilen dilekçelerin verilme tarihi ve teslim edilen kurumca belirlenen evrak kayıt numarası mutlaka not edilmelidir. Evrak kayıt numarası verilememesi halinde, itirazın teslim alındığına dair bir belge istenmelidir. Bunun da temin edilememsi halinde sunmuş olduğunuz dilekçenin 2. bir suretinin üzerine evrağın teslim alındığına dair not (derkenar) düşülmesini sağlamalısınız.  
   
 ------
 ## Nasıl faydalanırım?  
