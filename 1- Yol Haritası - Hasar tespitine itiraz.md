@@ -12,7 +12,7 @@ Yıkık ve acil yıktırılacak yapılarla alakalı süreç farklı işlediğind
   
 ------
 ## - Nereye itiraz etmeliyiz?  
-İtiraz dilekçenizde gerekli değişiklikleri yaptıktan sonra, dilekçenizi Samandağ Kaymakamlığına teslim etmeniz gerekmektedir. Ayrıca teslim ettiğiniz tarihi ve mümkünse evrak kayıt numarasını veya evrağın teslim alındığını gösterir bir evrakı teslim almanızda fayda bulunmaktadır.  İşbu yazının kaleme alındığı 23/02/2023 tarihi itibariyle Samandağ Kaymakamlığının Kültür Merkezi civarında faaliyet göstereceği bilgisi şifahen yaygın olup, bu durum teyit edilerek hareket edilmelidir.  
+İtiraz dilekçenizde gerekli değişiklikleri yaptıktan sonra, dilekçenizi Samandağ Kaymakamlığına teslim etmeniz gerekmektedir. Ayrıca teslim ettiğiniz tarihi ve mümkünse evrak kayıt numarasını veya evrağın teslim alındığını gösterir bir evrakı teslim almanızda fayda bulunmaktadır. Teslim alındığına dair evrağın temin edilememsi halinde sunmuş olduğunuz dilekçenin 2. bir suretinin üzerine evrağın teslim alındığına dair not (derkenar) düşülmesini sağlamalısınız. İşbu yazının kaleme alındığı 23/02/2023 tarihi itibariyle Samandağ Kaymakamlığının Kültür Merkezi civarında faaliyet göstereceği bilgisi şifahen yaygın olup, bu durum teyit edilerek hareket edilmelidir.  
   
 ------
 ## - Kimler itiraz edebilir?  
