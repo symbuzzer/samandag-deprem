@@ -1,0 +1,1 @@
+Burada tek başına faydalı herhangi bir şey bulunmamaktadır. Buradaki dosyalar, diğer yol haritaları ve uyarılar içerisinde kullanılan veya atıfta bulunulan içeriklerdir. Son kullanıcı için tek başlarına bir anlam ifade etmemektedirler.
