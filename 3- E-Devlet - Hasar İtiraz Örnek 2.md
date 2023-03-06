@@ -1,4 +1,4 @@
-# İlk tespitte orta hasarlı olarak tespiti yapılmışken sonra tespit yapılmaksızın ağır hasarlı olarak kaydedilen taşınmazlara ilişkin E-Devlet itiraz şablonu:
+# İlk tespitte "orta hasarlı" olarak tespiti yapılmışken sonra tespit yapılmaksızın "ağır hasarlı" olarak kaydedilen taşınmazlara ilişkin E-Devlet itiraz şablonu:
 
 Yapımın kolon, kiriş ve diğer taşıyıcı elemanlarında yapının sıhhatini etkileyen ağır bir hasar bulunmamaktadır. Ek olarak, yapının yapısal elemanlarında herhangi bir eğilme bükülme ezilme burkulma ve kabuk beton atması mevcut değildir. Yapıda gerekli güçlendirmelerin yapılması halinde eski sıhhatine kavuşacağı ortadadır.
 
