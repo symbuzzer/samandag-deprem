@@ -1,4 +1,4 @@
-# İlk tespitte az hasarlı olarak tespiti yapılmışken sonra tespit yapılmaksızın ağır hasarlı olarak kaydedilen taşınmazlara ilişkin E-Devlet itiraz şablonu:
+# İlk tespitte "az hasarlı" olarak tespiti yapılmışken sonra tespit yapılmaksızın "ağır hasarlı" olarak kaydedilen taşınmazlara ilişkin E-Devlet itiraz şablonu:
 
 Yapımın kolon, kiriş ve diğer taşıyıcı elemanlarında herhangi bir hasar bulunmamaktadır. Sadece bir kaç duvarında sıva çatlağı bulunmaktadır. Gerekli onarımın  yapılmasının yeterli olduğu ortadadır.
 
