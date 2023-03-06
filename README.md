@@ -43,6 +43,7 @@ Buradan paylaşılan bilgi ve belgeler -her ne kadar avukatlar tarafından hazı
 - İçeriklerin hazırlanması, kaynakça hazırlanması, bilgi ve belgelerin derlenmesi [Avukat Berna EK](https://www.google.com/search?q=Av.+Berna+EK)  
 - İçeriklerin hazırlanması, kaynakça hazırlanması, bilgi ve belgelerin derlenmesi [Avukat Cuma IRMAK](https://www.google.com/search?q=Av.+Cuma+IRMAK)  
 - İçeriklerin hazırlanması, kaynakça hazırlanması, bilgi ve belgelerin derlenmesi [Avukat Öznur ÖZKAN](https://www.google.com/search?q=Av.+%C3%96znur+%C3%96ZKAN)  
+- İçeriklerin hazırlanması [Mimar Gizem CABAROĞULLARI](https://www.google.com/search?q=Mimar+Gizem+CABARO%C4%9EULLARI)
   
 ------
 ## Kaynakça: 
