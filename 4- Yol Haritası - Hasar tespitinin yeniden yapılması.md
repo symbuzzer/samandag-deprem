@@ -11,7 +11,7 @@ E-devlet üzerinden yapınızın itiraz durumu "Az Hasarlı" olarak belirlenmiş
   
 -------------------  
 ## - İtiraz üzerine yapımın hasar durumu "ağır hasarlı"dan "orta hasarlı"ya döndü. Bir şey yapmam gerekir mi?  
-E-devlet üzerinden yapınızın itiraz durumu "Az Hasarlı" olarak belirlenmişse,
+E-devlet üzerinden yapınızın itiraz durumu "Orta Hasarlı" olarak belirlenmişse, yapıyı 1 yıl içerisinde mutlaka güçlendirmeniz gerekmektedir. Bu süre içerisinde gerekli güçlendirmeyi yapmamanız halinde yapınız yıkım riski ile karşı karşıya kalacaktır. Bu sebeple güçlendirme prosedürü hakkında bilgi almak için mutlaka Kaymakamlık ve Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğüne başvurmanız gerekmektedir.
   
 -------------------  
 ## - İtiraz üzerine yapımın hasar durumu "ağır hasarlı" olarak kalmaya devam etti. Ne yapmam gerekiyor?  
