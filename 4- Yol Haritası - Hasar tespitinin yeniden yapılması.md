@@ -7,8 +7,11 @@ E-devlet üzerinden yaptığınız sorgulamada "İtiraz sonucu" bölümünün ka
 -------------------  
 ## - İtiraz üzerine yapımın hasar durumu "ağır hasarlı"dan "az hasarlı"ya veya "hasarsız"a döndü. Bir şey yapmam gerekir mi?  
 E-devlet üzerinden yapınızın itiraz durumu "Hasarsız" olarak belirlenmişse, normal şartlarda herhangi bir şey yapmanıza gerek yok. Ancak yukarıda da değindiğimiz kontrole gelmeksizin hasar durumunun değiştirilmesi tecrübesinden kaynaklı olarak belirli aralıklarla bu durumu kontrol etmenizde fayda bulunmaktadır. Ayrıca [AFAD'ın 10.000 TL'lik hane başı destek yardımından](https://github.com/symbuzzer/samandag-deprem/blob/main/i%C3%A7erikler/bro%C5%9F%C3%BCr-afad-hane-ba%C5%9F%C4%B1-destek.jpg) sadece "konutları hasar gören" vatandaşlar yararlanabileceğinden, sizden geri istenmesi halinde 10.000 TL'yi iade etmeniz gerekmektedir.   
-  
 E-devlet üzerinden yapınızın itiraz durumu "Az Hasarlı" olarak belirlenmişse, yapınızla ilgili yıkım veya benzeri bir tehlike bulunmamaktadır. Aynı şekilde yapınızı kullanmanızda herhangi bir engel de bulunmamaktadır. Ancak yine de bu tespite ilişkin olarak yapınızın hasarsız olduğu iddiasıyla dava açma hakkınız bulunmaktadır. Dava açıp açmama tercihi size aittir. Aynı şekilde bu durumda da yukarıda değindiğimiz kontrole gelmeksizin hasar durumunun değiştirilmesi tecrübesinden kaynaklı olarak belirli aralıklarla itiraz sonucunu kontrol etmenizde fayda bulunmaktadır.  
+  
+-------------------  
+## - İtiraz üzerine yapımın hasar durumu "ağır hasarlı"dan "orta hasarlı"ya döndü. Bir şey yapmam gerekir mi?  
+E-devlet üzerinden yapınızın itiraz durumu "Az Hasarlı" olarak belirlenmişse,
   
 -------------------  
 ## - İtiraz üzerine yapımın hasar durumu "ağır hasarlı" olarak kalmaya devam etti. Ne yapmam gerekiyor?  
