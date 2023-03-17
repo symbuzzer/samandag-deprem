@@ -6,6 +6,6 @@ Bu doğrultuda; deprem sebebiyle Hatay'dan ayrılıp, diğer illere yakınların
   
 Ancak halen Hatay ilinde bulunan ve hasarsız veya az hasarlı evine ait mevcut adresinde veya adresinin önündeki çadır veya konteynerlerde kalmayan vatandaşların seçimlerde oy kullanabilmeleri için Hatay'da bulunmaları ne yazık ki yeterli değil. Bu kimselerin de kalmış oldukları adresi 17/03/2023 23:59'dan önce mutlaka ve mutlaka beyan etmeleri gerekmekte.
   
-Hali hazırda hasarsız veya az hasarlı evinde ve evinin önündeki çadır veya konteynerlerde kalanların ise adreslerinde kaldıklarını beyan ederek, herhangi bir değişiklik yapmalarına gerek görülmemekte. Ama aynı il veya ilçe içerisinde dahi olsa, adresinden başka bir adreste, çadır, konteyner, çadır kent veya konteyner kentte ikamet edenlerin oy kullanabilmesi için mutlaka ve mutlaka yeniden adres beyanında bulunmaları gerekmekte.
+Hali hazırda hasarsız veya az hasarlı evinde ve evinin önündeki çadır veya konteynerlerde kalanların ise evlerinde kaldıklarını beyan ederek, herhangi bir değişiklik yapmalarına gerek görülmemekte. Ama aynı il veya ilçe içerisinde dahi olsa, adresinden başka bir adreste, çadır, konteyner, çadır kent veya konteyner kentte ikamet edenlerin oy kullanabilmesi için mutlaka ve mutlaka yeniden adres beyanında bulunmaları gerekmekte.
   
 Adres beyanı için [E-Devlet Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü Adres Değişikliği Bildirimi](https://www.turkiye.gov.tr/adres-degisikligi-bildirimi) hizmetini kullanabileceğiniz gibi, Nüfus Müdürlükleri veya Nüfusmatikler üzerinden de yapabilirsiniz.
