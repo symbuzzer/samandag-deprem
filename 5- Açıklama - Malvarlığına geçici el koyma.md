@@ -1,4 +1,4 @@
-# Konteynerkent Alanları İçin Alınan Geçici El Koyma Kararıne yönelik bilgilendirme
+# Konteynerkent Alanları İçin Alınan Geçici El Koyma Kararına yönelik bilgilendirme
   
 Hatay Valiliği resmi internet sayfası üzerinden [19/03/2023 tarihinde yayınlanan duyuru](http://www.hatay.gov.tr/konteynerkent-alanlari-icin-alinan-gecici-el-koyma-kararina-iliskin-duyuru) ile Hatay'ın bir çok ilçesinde bir kısım taşınmazlara "geçici" olarak el koyma kararı alındığı bilgisi kamuoyu ile paylaşılmıştır. [Söz konusu listede](http://www.hatay.gov.tr/kurumlar/hatay.gov.tr/Haberler/2023/03Mart/19/afad/Gecici-El-Koyma-Parsel-Listesii.pdf) isminizin veya taşınmazın yer alıp almadığını kontrol etmenizde fayda bulunmaktadır.  
   
