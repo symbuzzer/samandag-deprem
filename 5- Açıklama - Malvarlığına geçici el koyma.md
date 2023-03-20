@@ -5,7 +5,7 @@ Hatay Valiliği resmi internet sayfası üzerinden [19/03/2023 tarihinde yayınl
 Her ne kadar [valilik oluru](http://www.hatay.gov.tr/kurumlar/hatay.gov.tr/Haberler/2023/03Mart/19/afad/Gecici-El-Koyma-Oluru.pdf)'nda taşınmazlara "geçici" olarak el konulduğu belirtilmiş ise de, ne kadar süre ile el konulduğu bilgisine ne [valilik oluru](http://www.hatay.gov.tr/kurumlar/hatay.gov.tr/Haberler/2023/03Mart/19/afad/Gecici-El-Koyma-Oluru.pdf)'nda ne de [el koyma kararında](http://www.hatay.gov.tr/kurumlar/hatay.gov.tr/Haberler/2023/03Mart/19/afad/Gecici-El-Koyma-Yazisi.pdf)'nda yer verilmemiştir. Süreyle ilgili herhangi bir bilgi olmamakla birlikte, söz konusu taşınmazlara konteynerkentler kurulacağı bilinmektedir. Dolayısıyla kısa bir süre ile el konma işleminin gerçekleşmediği söylenebilir.  
   
 -------------------
-## - İsmim ve/veya taşınmazım listede mevcut ne yapmalıyım?  
+## - İsmim ve/veya taşınmazım listede mevcut, ne yapmalıyım?  
 Eğer malvarlığınıza geçici süre ile el konulduysa ve bu işleme itiraz etmek istiyosanız, söz konusu işleme karşı öğrenme tarihi üzerinden 60 gün içerisinde idare mahkemesinde yürütmenin durdurulması ve nihayetinde idari işlemin iptali istemiyle dava açabilirsiniz. Söz konusu idari işlem [2935 sayılı Olağanüstü Hal Kanunu](https://www.mevzuat.gov.tr/mevzuatmetin/1.5.2935.pdf) ve [Olağanüstü Hal Kurulu ve Bürolarının Kuruluş ve Görevleri ile Yükümlülüklerin Karşılığının Tespit ve Ödenmesi Hakkında Yönetmelik](https://www.mevzuat.gov.tr/mevzuatMetin/3.5.847778.pdf) uyarınca tesis edilmiş olup, ilgilinenler söz konusu mevzuatları inceleyebilirler.
   
 -------------------
