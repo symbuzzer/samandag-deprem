@@ -14,4 +14,4 @@ Söz konusu geçici  el koyma kararına bir itirazınız yoksa, buna ilişkin ol
   
 -------------------
 ## - Taşınmazıma ne kadar süre ile el konuldu?
-Yukarıda da belirttiğimiz üzere süre bilgisi valilik olurunda da el koyma kararında da yer almamaktadır. Mevzuata baktığımızda, kanun 17. maddesi "Geçici süre için alınan taşıt araçları ve diğer mallar, yükümlülük sona erdiğinde ilgililere geri verilir." hükmünü ihitiva etmektedir. Süre bilgisinin net olmayışı "hukuki belirlilik" ilkesine aykırı olup vatandaşlarda haklı olarak kaygı yaratmaktadır.  
+Yukarıda da belirttiğimiz üzere süre bilgisi valilik olurunda da el koyma kararında da yer almamaktadır. Mevzuata baktığımızda, kanun 17. maddesi "Geçici süre için alınan taşıt araçları ve diğer mallar, yükümlülük sona erdiğinde ilgililere geri verilir." hükmünü ihitiva etmektedir. Yükümlülüğün ne olduğu ve ne kadar süreceği bilgisi olmadığından ötürü, el koyma süresinin ne olduğuna ilişkin bir şey söylenmesi mümkün görünmemektedir. Süre bilgisinin net olmayışı "hukuki belirlilik" ilkesine aykırı olup vatandaşlarda haklı olarak kaygı yaratmaktadır.  
