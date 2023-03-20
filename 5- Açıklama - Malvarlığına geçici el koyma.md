@@ -6,7 +6,7 @@ Her ne kadar [valilik oluru](http://www.hatay.gov.tr/kurumlar/hatay.gov.tr/Haber
   
 -------------------
 ## - İsmim ve/veya taşınmazım listede mevcut ne yapmalıyım?  
-Eğer malvarlığınıza geçici süre ile el konulduysa ve bu işleme itiraz etmek istiyosanız, söz konusu işleme karşı öğrenme tarihi üzerinden 60 gün içerisinde idare mahkemesinde yürütmenin durdurulması istemiyle dava açabilirsiniz. Söz konusu idari işlem [2935 sayılı Olağanüstü Hal Kanunu](https://www.mevzuat.gov.tr/mevzuatmetin/1.5.2935.pdf) ve [Olağanüstü Hal Kurulu ve Bürolarının Kuruluş ve Görevleri ile Yükümlülüklerin Karşılığının Tespit ve Ödenmesi Hakkında Yönetmelik](https://www.mevzuat.gov.tr/mevzuatMetin/3.5.847778.pdf) uyarınca tesis edilmiş olup, ilgilinenler söz konusu mevzuatları inceleyebilirler.
+Eğer malvarlığınıza geçici süre ile el konulduysa ve bu işleme itiraz etmek istiyosanız, söz konusu işleme karşı öğrenme tarihi üzerinden 60 gün içerisinde idare mahkemesinde yürütmenin durdurulması ve nihayetinde idari işlemin iptali istemiyle dava açabilirsiniz. Söz konusu idari işlem [2935 sayılı Olağanüstü Hal Kanunu](https://www.mevzuat.gov.tr/mevzuatmetin/1.5.2935.pdf) ve [Olağanüstü Hal Kurulu ve Bürolarının Kuruluş ve Görevleri ile Yükümlülüklerin Karşılığının Tespit ve Ödenmesi Hakkında Yönetmelik](https://www.mevzuat.gov.tr/mevzuatMetin/3.5.847778.pdf) uyarınca tesis edilmiş olup, ilgilinenler söz konusu mevzuatları inceleyebilirler.
   
 -------------------
 ## - İsmim ve/veya taşınmazım listede mevcut. Ancak işleme itiraz etmek istemiyorum. Bir şey yapmam gerekir mi, malım karşılığında bir ücret alacak mıyım?
