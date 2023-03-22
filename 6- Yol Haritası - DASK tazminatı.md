@@ -1,5 +1,5 @@
 # DASK tazminatı ile ilgili sık sorulan sorular
-DASK'ın ne olduğu hususundan ziyade, kimin hak sahibi olduğu, sürecin nasıl işlediği vb hususlarda çok fazla karşılaşılan sorulara genel ceaplar hazırlama gereği doğrultusunda işbu metin kaleme alınmıştır. DASK ile alakalı her türlü bilgi için 125'i arayarak ve arama esnasında sırasıyla 2 ve 4 tuşlarına basarak operatöre bağlanabilirsiniz.  
+DASK'ın ne olduğu hususundan ziyade, kimin hak sahibi olduğu, sürecin nasıl işlediği vb hususlarda çok fazla karşılaşılan sorulara genel ceaplar hazırlama gereği doğrultusunda işbu metin kaleme alınmıştır. DASK ile alakalı her türlü bilgi için 125'i arayabilirsiniz.  
 
 --------------  
 ## - Kiracıyım DASK'ı ben yaptırdım. Tazminatı ben mi alacağım yoksa mülk sahibi mi alacak?
