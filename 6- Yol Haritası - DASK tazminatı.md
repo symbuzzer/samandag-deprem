@@ -23,7 +23,7 @@ Bu durumda yukarıdaki bilgi ve belgeleri temin ederek ilçemizde görev yapmakt
   
 --------------
 ## - Hasar ihbarı yaptım, sonra ne olacak, tazminat ne zaman ödenecek?  
-Hasar ihbar sonrasında, ihbarınız başarı bir şekilde ve eksik bilgi ve belge olmaksızın gerçekleştiyse eksper ataması yapılır. Yaşanan yoğunluk sebebiyle bu süreç biraz uzayabilir. Eksper ataması olduysa eksper tarafından aranmanız ihtimal dahilindedir. Ancak aranmazsanız belirli aralıklarla 125'i arayarak başvurunuzun durumunu sorgulamanızda fayda bulunmaktadır. Eksper süreci tamamlandıktan sonra belirlenen tazminat tarafınıza ödenir. Bu tazminat miktarına karşı sigorta tahkime gitme ve dava açma haklarınız saklıdır. Bu aşamada ilçemiz avukatlarından yardım almanızda fayda bulunmaktadır.  
+Hasar ihbar sonrasında, ihbarınız başarı bir şekilde ve eksik bilgi ve belge olmaksızın gerçekleştiyse eksper ataması yapılır. Yaşanan yoğunluk sebebiyle bu süreç biraz uzayabilir. Eksper ataması olduysa eksper tarafından aranmanız ihtimal dahilindedir. Ancak aranmazsanız belirli aralıklarla 125'i arayarak başvurunuzun durumunu sorgulamanızda fayda bulunmaktadır. Eksper süreci tamamlandıktan sonra normal şartlar altında belirlenen tazminat tarafınıza en geç 1 ay içerisinde ödenmelidir. Bu tazminat miktarına karşı, süresi içerisinde sigorta tahkime gitme ve dava açma haklarınız saklıdır. Bu aşamada ilçemiz avukatlarından yardım almanızda fayda bulunmaktadır.  
   
 --------------
 ## - Hasar ihbarını ve DASK başvurusunu ne zaman yapmalıyım, bunun bir süresi var mı?
