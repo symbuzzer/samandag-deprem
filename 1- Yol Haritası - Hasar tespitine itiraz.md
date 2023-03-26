@@ -40,6 +40,7 @@ Ayrıca [e-devlet](https://itiraz.csb.gov.tr) üzerinden de itiraz edilebilmekte
 ### 26/03/2023 tarihli ekleme:  
 - Askı kodunuzu yine e-devletinizle giriş yaparak [şu sayfadan](https://www.turkiye.gov.tr/cevre-ve-sehircilik-hasar-tespit-sorgulama?adres=Sorgula) adres bilgilerinizi girerek öğrenebilirsiniz. Lütfen doğru askı kodunu öğrendiğinizden ve dilekçenin konu kısmında boş bırakılan yere girdiğinizden emin olun.  
 - Dilekçenin Açıklamalar kısmındaki boşlukları durumunuz ve hasar tespiti ile uygun olacak şekilde doldurun.  
+- İtiraz dilekçesi [şuradan](https://github.com/symbuzzer/samandag-deprem/raw/main/2-%20Dilek%C3%A7e%20-%20Hasar%20Tespitine%20%C4%B0tiraz.pdf) indirilebilmektedir.  
   
 ------
 ## - İtiraz sürecinden sonra ne olacak? *(26/03/2023 tarihinde eklemeler/çıkarmalar yapılmıştır.)*  
