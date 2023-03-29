@@ -5,4 +5,3 @@ Yapımın taşıyıcı ve yapısal elemanlarında eğilme bükülme ezilme burku
 Dolayısıyla yapılan bu tespite itiraz etmekteyim ve yapımın yeniden incelenmesini talep ederim.
 
 Tespite katılmam için şahsıma aşağıdaki numaradan ulaşılmasını rica ederim.
-05
