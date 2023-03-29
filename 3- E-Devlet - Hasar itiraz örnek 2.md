@@ -4,5 +4,4 @@ Yapımın taşıyıcı ve yapısal elemanlarında eğilme bükülme ezilme burku
 
 Zaten yapılan ilk tespitte orta hasarlı olarak tespit yapılmıştır. Ancak daha sonra yeniden tespit yapılmadan ağır hasarlı olarak değiştirilmiştir. Bu tespite itiraz etmekteyim ve yeniden incelenmesini talep ederim.
 
-Tespite katılmam için şahsıma aşağıdaki numaradan ulaşılmasını rica ederim.  
-05
+Tespite katılmam için şahsıma aşağıdaki numaradan ulaşılmasını rica ederim.
