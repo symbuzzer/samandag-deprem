@@ -4,5 +4,4 @@ Yapımın kolon, kiriş ve diğer taşıyıcı elemanlarında herhangi bir hasar
 
 Zaten ilk hasar tespitinde hasar durumu az hasarlı olarak tespit edilmiştir. Ancak daha sonra yeniden tespite gelinmeden ağır hasarlı olarak değiştirilmiştir. Bu tespite itiraz etmekteyim. Yeniden inceleme yapılmasını talep ederim.
 
-Tespite katılmak istediğimden şahsıma aşağıdaki telefon numarasından ulaşılmasını rica ederim. 
-Tel:05
+Tespite katılmak istediğimden şahsıma aşağıdaki telefon numarasından ulaşılmasını rica ederim.
