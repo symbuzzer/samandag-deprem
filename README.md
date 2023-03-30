@@ -27,7 +27,7 @@ Buradan paylaşılan bilgi ve belgeler -her ne kadar avukatlar tarafından hazı
 - Yol haritalarını takip ederek, sürece nasıl başlayıp hangi süre içerisinde nereye ne şekilde başvurmanız gerektiğini görebilirsiniz.  
 - Bu yol haritaları; mevcut mevzuatlar, AFAD, Bakanlıklar ve benzeri kurumların duyuru ve el kitapçıklarından derlenecektir.  
 - Prosedürleri aşama aşama ve sırasıyla yürütüp başvuru ve dava açma sürelerine dikkat etmeniz gerekmektedir.  
-- Vaktinde yapılmayan başvuru, açılmayan dava neticesinde hak kaybına uğramanız kuvvetle muhtemeldir.  
+- Vaktinde yapılmayan başvuru, itiraz ve açılmayan dava neticesinde hak kaybına uğramanız kuvvetle muhtemeldir.  
 - Yol haritaları ve dilekçeler 1-, 2- şeklinde sıralanmış olup, yukarıdaki "view code" bölümünden sırasıyla erişebilirsiniz.  
   
 ------
