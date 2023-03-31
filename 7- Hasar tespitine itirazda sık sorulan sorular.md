@@ -22,7 +22,9 @@ Orta hasarlı yapıların 1 yıl içerisinde güçlendirilmeleri gerekmektedir. 
   
 ------
 ## - Tapu birden fazla kişi adına (ortak mülkiyet). Herkes mi itiraz etmeli?
-Ortak mülkiyet; elbirliği mülkiyeti ve paylı mülkiyet diye 2 ayrı bölüme ayrılmakta. Normal şartlar altında elbirliği mülkiyetinde, mülk ile ilgili atılacak her adımda oybirliği ile hareket edilmesi gerekmektedir. Ancak istisnai olarak ortaklardan her biri topluluğa giren hakların korunması için tek başına hareket edebilir denilmektedir. (Türk Madeni Kanunu 702. madde) Bu hüküm doğrultusunda, hasar tespitine itirazın topluluğa giren hak olarak değerlendirilmesi zorlama bir yorum olarak kabul görebileceğinden, ortakların tamamının itiraz etmesi gerektiği gibi bir sonuç ortaya çıkabilmektedir. Ancak vatandaşların hak kayıplarına uğramaması için, ortaklardan birinin itirazının geçerli olarak kabul edilmesi gerekmektedir.
+Ortak mülkiyet; elbirliği mülkiyeti ve paylı mülkiyet diye 2 ayrı bölüme ayrılmakta. 
+
+Normal şartlar altında elbirliği mülkiyetinde, mülk ile ilgili atılacak her adımda oybirliği ile hareket edilmesi gerekmektedir. Ancak istisnai olarak ortaklardan her biri topluluğa giren hakların korunması için tek başına hareket edebilir denilmektedir. (Türk Madeni Kanunu 702. madde) Bu hüküm doğrultusunda, hasar tespitine itirazın topluluğa giren hak olarak değerlendirilmesi zorlama bir yorum olarak kabul görebileceğinden, ortakların tamamının itiraz etmesi gerektiği gibi bir sonuç ortaya çıkabilmektedir. Ancak vatandaşların hak kayıplarına uğramaması için, ortaklardan birinin itirazının geçerli olarak kabul edilmesi gerekmektedir.
 
 Paylı mülkiyette ise ortaklardan her biri kendi payı için malik hak ve yükümlülüklerine sahip olduğundan sadece kendi paylarını ilgilendiren kısım için kendilerinin itiraz etmesinin yeterli olacağı söylenebilir. Yine de bu hususta avukat ve idarecilerden olaya özgü daha detaylı bilgi alıanrak hareket edilmelidir. 
   
