@@ -1,0 +1,6 @@
+# Hasar tespitine itiraz sık sorulan sorular  
+*Not: Bu rehber, yapısı hasar görmemiş veya az hasar görmüş ancak ağır hasarlı olarak tespiti yapılmış yapı sahiplerinin faydalanması amacıyla hazırlanmıştır. Gerçekten tehlike arz eden yapılar olan yıkık ve acil yıktırılacak yapılar ile ilgili kullanılmaması gerekmektedir. Zira yıkık ve acil yıktırılacak yapılarla ilgili işeyiş, itiraz ve başvuru süreleri gibi bir çok prosedür farklıdır. Bu amaçla kullanımdan kaynaklı sorumluluk kullanana ve kullanım sonucunda işlem gerçekleştirenlere aittir. Bundan ötürü kullanıcı tarafından bu yol haritasını hazılayanlara herhangi bir sorumluluk atfedilemeyeceğini peşinen kabul edilmektedir. Buna ek olarak genel [sorumluluk reddi](https://github.com/symbuzzer/samandag-deprem/blob/main/SORUMLULUK%20REDD%C4%B0.md) şartları bu rehber için de geçerlidir.*  
+  
+------
+## - Apartmandaki dairem için itirazda bulundum. Diğer kat maliklerinin itirazda bulunmasına gerek var mı?
+Bu sorunun mevzuatta veya bugüne kadar çıkarılan broşürlerde net olarak bir karşılığı yok. Varsayımsal olarak bakıldığında, itiraz ederken kullanılan askı kodu bir binanın bütün daireleri için aynı. Dolayısıyla itiraz eden kat maliki mantıken sadece kendi dairesi için değil, yapının tammaı için itiraz etmiş sayılıyor olmalı. 
