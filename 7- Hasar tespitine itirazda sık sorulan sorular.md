@@ -16,7 +16,7 @@ Bu sorunun da net bir cevabı yok. Zira orta hasarlı yapıların güçlendirilm
   
 ------
 ## - Orta hasarlı yapıya itiraz edilmeli mi?
-Bu sorunun da ne yazık ki net bir cevabı yok. İtiraz edilmesi halinde yapının durumunun orta hasarlıdan ağır hasarlıya dönüştürülmemesi için herhangi bir aleyhe değerlendirme sınırlaması yok. Yani itiraz üzerine gelen görevli bu yapıa aslında ağır hasar verilmeli diyerek yapının durumunu bir anda aleyhe çevirebilir. Bu ihtimal mutlaka göz önünde bulundurulmalıdır.
+Bu sorunun da ne yazık ki net bir cevabı yok. İtiraz edilmesi halinde yapının durumunun orta hasarlıdan ağır hasarlıya dönüştürülmemesi için herhangi bir aleyhe değerlendirme sınırlaması yok. Yani itiraz üzerine gelen görevli bu yapıya aslında ağır hasar verilmeli diyerek yapının durumunu bir anda aleyhe çevirebilir. Bu ihtimal mutlaka göz önünde bulundurulmalıdır.
 
 Orta hasarlı yapıların 1 yıl içerisinde güçlendirilmeleri gerekmektedir. Güçlendirme prosedürünün nasıl işlediği ve bürokratik prosedürlerin nasıl tamamlanacağı ile ilgili olarak mimar ve inşaat mühendislerinden detaylı bilgiler edinilebilir.
   
