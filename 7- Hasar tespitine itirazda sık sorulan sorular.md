@@ -1,4 +1,6 @@
-# Hasar tespitine itiraz sık sorulan sorular  
+# Hasar tespitine itiraz sık sorulan sorular (Son güncelleme: 31/03/2023)  
+(Bu kılavuz yeni sorular geldikçe güncellenecektir.)  
+  
 *Not: Bu rehber, yapısı hasar görmemiş veya az hasar görmüş ancak ağır hasarlı olarak tespiti yapılmış yapı sahiplerinin faydalanması amacıyla hazırlanmıştır. Gerçekten tehlike arz eden yapılar olan yıkık ve acil yıktırılacak yapılar ile ilgili kullanılmaması gerekmektedir. Zira yıkık ve acil yıktırılacak yapılarla ilgili işeyiş, itiraz ve başvuru süreleri gibi bir çok prosedür farklıdır. Bu amaçla kullanımdan kaynaklı sorumluluk kullanana ve kullanım sonucunda işlem gerçekleştirenlere aittir. Bundan ötürü kullanıcı tarafından bu yol haritasını hazılayanlara herhangi bir sorumluluk atfedilemeyeceğini peşinen kabul edilmektedir. Buna ek olarak genel [sorumluluk reddi](https://github.com/symbuzzer/samandag-deprem/blob/main/SORUMLULUK%20REDD%C4%B0.md) şartları bu rehber için de geçerlidir.*  
   
 ------
