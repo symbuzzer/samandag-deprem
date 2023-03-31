@@ -9,3 +9,4 @@
 - Olağanüstü Hal Kurulu ve Bürolarının Kuruluş ve Görevleri ile Yükümlülüklerin Karşılığının Tespit ve Ödenmesi Hakkında Yönetmelik: https://www.mevzuat.gov.tr/mevzuatMetin/3.5.847778.pdf
 - DASK başvurusunun en kısa sürede yapılması gerektiğine ilişkin bilgilendirme: https://dask.gov.tr/tr/zds-bilgilendirme-uyarilar
 - DASK başvurusunda süre kısıtlamasının uygulanmadığına dair haber: https://www.aa.com.tr/tr/asrin-felaketi/dask-hasar-ihbarinda-sure-kisitlamasi-uygulanmamaktadir/2817561
+- Türk Medeni Kanunu: https://www.mevzuat.gov.tr/mevzuatmetin/1.5.4721.pdf
