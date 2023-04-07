@@ -8,7 +8,7 @@
 ## - Apartmandaki dairem için itirazda bulundum. Diğer kat maliklerinin itirazda bulunmasına gerek var mı?
 Bu sorunun mevzuatta veya bugüne kadar çıkarılan broşürlerde net olarak bir karşılığı yok. Varsayımsal olarak bakıldığında, itiraz ederken kullanılan askı kodu bir binanın bütün daireleri için aynı. Dolayısıyla itiraz eden kat maliki mantıken sadece kendi dairesi için değil, yapının tamamı için itiraz etmiş sayılıyor olmalı. 
 
-Bu çıkarım kesin olmamakla birlikte; kentsel dönüşüm mevzuatında aranan 2/3'lük çoğunluk bir çok kişide tereddüt yaratmakta. Misal ağır hasarlı bir yapı için sadece 1-2 kat malikinin itiraz etmiş olması, diğer kat maliklerinin ağır hasar tespiti kabul ettikleri şeklinde değerlendirilebilir. Bu sebeple, apartman sakinlerinin bu durumu değerlendirerek birlikte hareket etmesinde fayda bulunmaktadır.
+Bu çıkarım kesin olmamakla birlikte; kentsel dönüşüm mevzuatında aranan 2/3'lük çoğunluk bir çok kişide tereddüt yaratmakta. Misal ağır hasarlı bir yapı için sadece 1-2 kat malikinin itiraz etmiş olması, diğer kat maliklerinin ağır hasar tespitini kabul ettikleri şeklinde değerlendirilebilir. Bu sebeple, apartman sakinlerinin bu durumu değerlendirerek birlikte hareket etmesinde fayda bulunmaktadır.
   
 ------
 ## - Ruhsatı olmayan 2004 öncesi inşaa edilmiş veya imar barışı uygulamasından faydalanmış yapı kayıt belgeli yapım orta hasarlı. Buna itiraz etmeli miyim?
