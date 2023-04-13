@@ -1,5 +1,5 @@
 # Hasar tespitine itiraz sık sorulan sorular 
-## Son güncelleme: 31/03/2023 - Bu kılavuz yeni sorular geldikçe güncellenecektir.  
+## Son güncelleme: 13/04/2023 - Bu kılavuz yeni sorular geldikçe güncellenecektir.  
   
 ------
 *Not: Bu rehber, yapısı hasar görmemiş veya az hasar görmüş ancak ağır hasarlı olarak tespiti yapılmış yapı sahiplerinin faydalanması amacıyla hazırlanmıştır. Gerçekten tehlike arz eden yapılar olan yıkık ve acil yıktırılacak yapılar ile ilgili kullanılmaması gerekmektedir. Zira yıkık ve acil yıktırılacak yapılarla ilgili işeyiş, itiraz ve başvuru süreleri gibi bir çok prosedür farklıdır. Bu amaçla kullanımdan kaynaklı sorumluluk kullanana ve kullanım sonucunda işlem gerçekleştirenlere aittir. Bundan ötürü kullanıcı tarafından bu yol haritasını hazılayanlara herhangi bir sorumluluk atfedilemeyeceğini peşinen kabul edilmektedir. Buna ek olarak genel [sorumluluk reddi](https://github.com/symbuzzer/samandag-deprem/blob/main/SORUMLULUK%20REDD%C4%B0.md) şartları bu rehber için de geçerlidir.*  
@@ -37,3 +37,7 @@ Ne yazık ki oraya bir TC kimlik numarası yazmanız gerekmekte, aksi takdirde i
 Ne yazık ki sistem, itiraz yapıp yapmadığınıza dair sorgulama yapabileceğiniz veya itirazlarını görüntüleyebileceğiniz bir bilgi ekranına sahip değil. Aynı şekilde yeniden itiraz yapmak istediğinde daha önce itiraz edildiğine dair bir mesajla da karşılaşmıyorsunuz.
 
 E-devlet itiraz sistemi, aynı askı kodu ile itiraz etmeye herhangi bir engel koymamış durumda. Hatta aynı askı kodu ile itiraz yapıldığında yeni bir itiraz numarası dahi vermekte. Bu açıdan bakıldığında, aynı askı kodu için itiraz edilebilmesi mümkün görünmekte.
+  
+------
+## - Apartmandaki dairem itiraz etmedğim halde ağır hasarlıdan orta hasarlıya döndü. Güçlendirme nasıl olacak? Güçlendirme için para vermek zorunda mıyım?  
+Eğer apartmanda kat mülkiyeti veya kat irtifakı söz konusu ise, bu hususta bakılması gereken mevzuat Kat Mülkiyeti Kanunu'dur. Eğer yaoı ruhsatsızsa ve daire sahipleri arsa payı üzerinde ortaklarsa bakılması gereken mevzuat Türk Medeni Kanunu'nun paylı mülkiyete ilişkin hükümleridir. Bu soruların tek ve genel geçer bir cevabu olmayı, durum ve şartlara göre değişen ihtimaller söz konusudur. Daha detaylı bilgi almak için mutlaka avukatınıza başvurmanız gerekmektedir.
