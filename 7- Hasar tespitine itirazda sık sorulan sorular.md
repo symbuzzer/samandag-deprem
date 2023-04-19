@@ -1,8 +1,15 @@
 # Hasar tespitine itiraz sık sorulan sorular 
-## Son güncelleme: 13/04/2023 - Bu kılavuz yeni sorular geldikçe güncellenecektir.  
+## Son güncelleme: 19/04/2023 - Bu kılavuz yeni sorular geldikçe güncellenecektir.  
   
 ------
 *Not: Bu rehber, yapısı hasar görmemiş veya az hasar görmüş ancak ağır hasarlı olarak tespiti yapılmış yapı sahiplerinin faydalanması amacıyla hazırlanmıştır. Gerçekten tehlike arz eden yapılar olan yıkık ve acil yıktırılacak yapılar ile ilgili kullanılmaması gerekmektedir. Zira yıkık ve acil yıktırılacak yapılarla ilgili işeyiş, itiraz ve başvuru süreleri gibi bir çok prosedür farklıdır. Bu amaçla kullanımdan kaynaklı sorumluluk kullanana ve kullanım sonucunda işlem gerçekleştirenlere aittir. Bundan ötürü kullanıcı tarafından bu yol haritasını hazılayanlara herhangi bir sorumluluk atfedilemeyeceğini peşinen kabul edilmektedir. Buna ek olarak genel [sorumluluk reddi](https://github.com/symbuzzer/samandag-deprem/blob/main/SORUMLULUK%20REDD%C4%B0.md) şartları bu rehber için de geçerlidir.*  
+  
+------
+## - İtiraz sonuçlarını nasıl öğrenebileceğiz? Bu sonuçlar askıya çıkacak mı?  
+*(19/04/2023 tarihinde soru olarak eklenmiştir.)*  
+Hayır bu sonuçlar askıya çıkmayacak. Sonuçların askıya çıkmasını gerektiren herhangi bir kanuni düzenleme mevcut olmadığından, idarenin bu sonuçlar askıya çıkarma yükümlülüğü mevcut değil. Ancak idare, hasar tespitlerini kesinleştirebilmek adına bunları itiraz başvurucuları ile uygun kanallardan paylaşmak mecburiyetinde. Dolayısıyla itiraz sonuçlarının vatandaşlarla paylaşılacağı kanaatindeyiz.  
+  
+İtiraz sonuçlarının nasıl kontrol edleceğine ilişin [şuradaki yol haritasını](https://github.com/symbuzzer/samandag-deprem/blob/main/8-%20Yol%20Haritas%C4%B1%20-%20%C4%B0tiraz%20sonu%C3%A7lar%C4%B1n%C4%B1n%20kontrol%C3%BC) kontrol etmenizde fayda bulunmaktadır.  
   
 ------
 ## - Apartmandaki dairem için itirazda bulundum. Diğer kat maliklerinin itirazda bulunmasına gerek var mı?
@@ -40,4 +47,5 @@ E-devlet itiraz sistemi, aynı askı kodu ile itiraz etmeye herhangi bir engel k
   
 ------
 ## - Apartmandaki dairem itiraz etmedğim halde ağır hasarlıdan orta hasarlıya döndü. Güçlendirme nasıl olacak? Güçlendirme için para vermek zorunda mıyım?  
+*(13/04/2023 tarihinde soru olarak eklenmiştir.)*  
 Eğer apartmanda kat mülkiyeti veya kat irtifakı söz konusu ise, bu hususta bakılması gereken mevzuat Kat Mülkiyeti Kanunu'dur. Eğer yaoı ruhsatsızsa ve daire sahipleri arsa payı üzerinde ortaklarsa bakılması gereken mevzuat Türk Medeni Kanunu'nun paylı mülkiyete ilişkin hükümleridir. Bu soruların tek ve genel geçer bir cevabu olmayı, durum ve şartlara göre değişen ihtimaller söz konusudur. Daha detaylı bilgi almak için mutlaka avukatınıza başvurmanız gerekmektedir.
