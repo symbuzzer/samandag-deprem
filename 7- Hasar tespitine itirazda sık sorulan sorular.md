@@ -9,7 +9,7 @@
 *(19/04/2023 tarihinde soru olarak eklenmiştir.)*  
 Hayır bu sonuçlar askıya çıkmayacak. Sonuçların askıya çıkmasını gerektiren herhangi bir kanuni düzenleme mevcut olmadığından, idarenin bu sonuçlar askıya çıkarma yükümlülüğü mevcut değil. Ancak idare, hasar tespitlerini kesinleştirebilmek adına bunları itiraz başvurucuları ile uygun kanallardan paylaşmak mecburiyetinde. Dolayısıyla itiraz sonuçlarının vatandaşlarla paylaşılacağı kanaatindeyiz.  
   
-İtiraz sonuçlarının nasıl kontrol edleceğine ilişin [şuradaki yol haritasını](https://github.com/symbuzzer/samandag-deprem/blob/main/8-%20Yol%20Haritas%C4%B1%20-%20%C4%B0tiraz%20sonu%C3%A7lar%C4%B1n%C4%B1n%20kontrol%C3%BC) kontrol etmenizde fayda bulunmaktadır.  
+İtiraz sonuçlarının nasıl kontrol edleceğine ilişkin [şuradaki yol haritasını](https://github.com/symbuzzer/samandag-deprem/blob/main/8-%20Yol%20Haritas%C4%B1%20-%20%C4%B0tiraz%20sonu%C3%A7lar%C4%B1n%C4%B1n%20kontrol%C3%BC) kontrol etmenizde fayda bulunmaktadır.  
   
 ------
 ## - Apartmandaki dairem için itirazda bulundum. Diğer kat maliklerinin itirazda bulunmasına gerek var mı?
