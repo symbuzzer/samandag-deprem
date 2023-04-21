@@ -11,6 +11,6 @@ Bu doğrultuda itiraz sonucunu şu aşamada yalnızca e-devlet üzerinden adres 
 - Burada açılan sayfadan "Adres seçerek hasar tespit sorgulaması yapmak istiyorum." seçeneğini işaretleyip "Sorgula" butonuna tıklayınız.  
 - İl, ilçe ve mahalle bilgisini seçip "Sorgula" butonundan ilerleyiniz. 
 - Gelen ekrandan sokağınızı seçtikten sonra kapı numaranızla size ait seçeneği bulun ve askı kodunuzdan da doğru seçenek olduğunu teyit ettikten sonra sağ köşedeki "Detay" butonuna tıklayınız.  
-- Açılan sayfa son sayfa olup, buradaki "İtiraz Sonucu" kısmını kontrol etmeniz gerekmektedir. İtiraz sonucu halen tespit gerçekleşmediyse burada "-" ibaresi görünecektir. İtiraz sonucu belli olduğunda, bu sayfadaki itiraz sonucu ile "Durum" kısmının da aynı olması gerekmektedir.  
+- Açılan sayfa son sayfa olup, buradaki "İtiraz Sonucu" kısmını kontrol etmeniz gerekmektedir. İtiraz sonucu olarak halen tespit gerçekleşmediyse "-" ibaresi görünecektir. İtiraz sonucu belli olduğunda, bu sayfadaki itiraz sonucu ile "Durum" kısmının da aynı olması gerekmektedir.  
 
 İtiraz sonucunun (ve hasar durumunun) istendiği şekilde olmaması halinde, vatandaşların bu tespit işlemine karşı idari yargı idari işlemin tespiti davası açması gerekmektedir. Hak düşürücü süreye tabi olan bu davanın süresi içerisinde açılması gerektiğinden, itiraz sonucunun yukarıda değinildiği gibi sürekli kontrol edilmesi gerekmektedir.  
