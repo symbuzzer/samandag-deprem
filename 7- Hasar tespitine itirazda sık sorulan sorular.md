@@ -1,5 +1,5 @@
 # Hasar tespitine itiraz sık sorulan sorular 
-## Son güncelleme: 19/04/2023 - Bu kılavuz yeni sorular geldikçe güncellenecektir.  
+## Son güncelleme: 27/04/2023 - Bu kılavuz yeni sorular geldikçe güncellenecektir.  
   
 ------
 *Not: Bu rehber, yapısı hasar görmemiş veya az hasar görmüş ancak ağır hasarlı olarak tespiti yapılmış yapı sahiplerinin faydalanması amacıyla hazırlanmıştır. Gerçekten tehlike arz eden yapılar olan yıkık ve acil yıktırılacak yapılar ile ilgili kullanılmaması gerekmektedir. Zira yıkık ve acil yıktırılacak yapılarla ilgili işeyiş, itiraz ve başvuru süreleri gibi bir çok prosedür farklıdır. Bu amaçla kullanımdan kaynaklı sorumluluk kullanana ve kullanım sonucunda işlem gerçekleştirenlere aittir. Bundan ötürü kullanıcı tarafından bu yol haritasını hazılayanlara herhangi bir sorumluluk atfedilemeyeceğini peşinen kabul edilmektedir. Buna ek olarak genel [sorumluluk reddi](https://github.com/symbuzzer/samandag-deprem/blob/main/SORUMLULUK%20REDD%C4%B0.md) şartları bu rehber için de geçerlidir.*  
@@ -49,3 +49,12 @@ E-devlet itiraz sistemi, aynı askı kodu ile itiraz etmeye herhangi bir engel k
 ## - Apartmandaki dairem itiraz etmedğim halde ağır hasarlıdan orta hasarlıya döndü. Güçlendirme nasıl olacak? Güçlendirme için para vermek zorunda mıyım?  
 *(13/04/2023 tarihinde soru olarak eklenmiştir.)*  
 Eğer apartmanda kat mülkiyeti veya kat irtifakı söz konusu ise, bu hususta bakılması gereken mevzuat Kat Mülkiyeti Kanunu'dur. Eğer yaoı ruhsatsızsa ve daire sahipleri arsa payı üzerinde ortaklarsa bakılması gereken mevzuat Türk Medeni Kanunu'nun paylı mülkiyete ilişkin hükümleridir. Bu soruların tek ve genel geçer bir cevabu olmayı, durum ve şartlara göre değişen ihtimaller söz konusudur. Daha detaylı bilgi almak için mutlaka avukatınıza başvurmanız gerekmektedir.
+  
+------
+## - Yapımın hasarı itiraz sonucunda ağır hasardan hasarsıza ya da az veya orta hasara dönerse almış olduğum taşınma yardımını (15.000 TL) ve kira yardımını (aylık 5.000 TL) geri isteyebilirler mi?
+*(27/04/2023 tarihinde soru olarak eklenmiştir.)*  
+Bu sorunun cevabı yapının apır hasarlıdan hasarsıza ya da az veya orta hasarlıya dönmesine göre değişmektedir.  
+
+Eğer ağır hasarlıdan hasarsız ve az hasarlıya dönmesi halinde, bu ödemeler geri istenebilecektir. Zira barınma yardımı adı altında gerçekleştirilen bu yardımlar, konutlarında oturamayacak durumda olanlar (orta hasarlı yapılar) ve konutları oturulmayacak durumda olanlar (ağır hasarlı, derhal yıktırılması gereken ve yıkık yapılar) için yapılmaktadır. Dolayısıyla yapılan ödemelerin geri istenebilmesi olasıdır. Ancak buna karşı yapının ilk baştaki ağır hasar tespiti sebebiyle gerçekten boşaltıldığı ve artık orada oturulmadığı için kira yardımına ihtiyaç duyulduğu yöndeki savunmalar her zaman kabul görmelidir. Zira ilk tespiti yapan, ödemeyi yapan resmi makam olan idaredir. Kendi tespitinin, hatalı bile olsa, bütün sorumluluklarına katlanması gerektiği hukuk devleti ilkesinin doğal bir sonucudur. Kaldı ki bu durumun tespitinin yapılması da oldukça kolay değildir.
+
+Eğer ağır hasarlıdan orta hasara dönmesi söz konusuysa, bu ödemeler geri istenemeycektir. Zira barınma yardımı adı altında yapılan bu ödemeler orta hasarlı yapıları da kapsamaktadır.
