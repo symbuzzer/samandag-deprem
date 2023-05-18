@@ -12,6 +12,6 @@ Bu konular, işbu yazının ilk kaleme alındığı 18/05/2023 tarihinde hala be
   
 ![](https://github.com/symbuzzer/samandag-deprem/blob/main/i%C3%A7erikler/dosya-yürütülebilir-işlem.jpeg?raw=true) 
   
-Hatay Barosunda gönderilen bu yazıya Hatay Valiliğince cevap verilmesi halinde, söz konusu cevabı bu yazıyı güncelleyerek yine burada paylaşacağız. Ancak bu yazı gelmeden yıkım işlemlerine başlanması halinde, vatandaşların hak kaybına uğramaması için son çare olarak ve yukarıda izah edilen davanın reddedilme riskini göze alarak "ağır hasar tespitine dayanan fiili yıkım" gerekçesiyle iptal davası açması gerekmektedir. 
+Hatay Barosunca gönderilen bu yazıya Hatay Valiliğince cevap verilmesi halinde, söz konusu cevabı bu yazıyı güncelleyerek yine burada paylaşacağız. Ancak bu yazı gelmeden yıkım işlemlerine başlanması halinde, vatandaşların hak kaybına uğramaması için son çare olarak ve yukarıda izah edilen davanın reddedilme riskini göze alarak "ağır hasar tespitine dayanan fiili yıkım" gerekçesiyle iptal davası açması gerekmektedir. 
   
 Bütün bu teknik süreçle ilgili olarak, ilçemizde görev yapan Avukatlardan profesyonel yardım ve hizmet almanızda fayda bulunmaktadır. Hasar tespitine itiraz sürecinden farklı olarak, işbu davalarda olaya özgü çok fazla değişken bulunduğundan, matbu bir dilekçe ile dava açılması hak kayıplarına yol açabilecektir.
