@@ -1,4 +1,4 @@
-# Hasar tespiti sonucuna karşı dava açma  
+# Kesin hasar tespiti sonucuna karşı dava açma  
 ## Son güncelleme: 20/05/2023 - Bu yazı yeni gelişmeler oldukça güncellenecektir.  
   
 Uzun bir aradan sonra tekrar merhaba. Nihayet hasar tespit süreci yakın zamanda sona erecek gibi görünüyor. Sonraki aşamalarda vatandaşların ihtiyaç duyması halinde "hak sahipliği" hukuki statüsüne değinilebilir duruma göre, bilemiyorum. Ancak itiraz üzerine yapılan hasar tespit sonucundan memnun olmayanlar için bir sonraki aşamaya geçmeden önce işbu yazıyı hazırlama gereği duyduk.  
