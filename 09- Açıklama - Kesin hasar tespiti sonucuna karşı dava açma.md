@@ -1,5 +1,5 @@
 # Kesin hasar tespiti sonucuna karşı dava açma  
-## Son güncelleme: 20/05/2023 - Bu yazı yeni gelişmeler oldukça güncellenecektir.  
+## Son güncelleme: 01/06/2023 - Bu yazı yeni gelişmeler oldukça güncellenecektir.  
   
 Uzun bir aradan sonra tekrar merhaba. Nihayet hasar tespit süreci yakın zamanda sona erecek gibi görünüyor. Sonraki aşamalarda vatandaşların ihtiyaç duyması halinde "hak sahipliği" hukuki statüsüne değinilebilir duruma göre, bilemiyorum. Ancak itiraz üzerine yapılan hasar tespit sonucundan memnun olmayanlar için bir sonraki aşamaya geçmeden önce işbu yazıyı hazırlama gereği duyduk.  
   
@@ -18,6 +18,9 @@ Hatay Barosunca gönderilen bu yazıya Hatay Valiliğince cevap verilmesi halind
 *(20/05/2023 tarihinde ekleme yapılmıştır.)*  
 20/05/2023 tarihi itibariyle, Hatay Valiliğinin Defne ilçesindeki ağır hasarlı yapıların yıkımı için ayrı bir işlem tesis ettiği ve bu işlemi aşağıdaki resimde görülen "İlan Tutanağı" ile duyurduğu görülmüştür. Söz konusu ilan, (işlem tarihi ve işlem numarası bulunmadığından ötürü) teknik anlamda bir idari işlem gibi gözükmese de, hukuki anlamda bir idari işlem niteliğinde olduğu kabul edilmelidir. Zira ortada artık bir idare tarafından tesis edilen, kesin hasar tespitine dayanan, kesin ve yürütülebilir bir yıkım işlemi mevcuttur. İlçemizde de benzer bir uygulamanın gerçekleşmesini, yukarıda belirtmiş olduğumuz belirsizliklerin oluşmaması adına umuyoruz.
   
-![](https://github.com/symbuzzer/samandag-deprem/blob/main/i%C3%A7erikler/resim-defne-yıkım-ilanı-örnek.png?raw=true) 
+![](https://github.com/symbuzzer/samandag-deprem/blob/main/i%C3%A7erikler/resim-defne-yıkım-ilanı-örnek.png?raw=true)  
+  
+*(01/06/2023 tarihinde ekleme yapılmıştır.)*  
+İdare Mahkemesi, yıkım işlemi olmadan sadece ağır hasar tespitine dayanılarak yıkım gerçekleştirileceği yönünde duyum alınmış olması iddiası ile yürütmenin durdurulması yönünde karar vermiştir. Dolayısıyla yapısı ağır hasarlı olan vatandaşların yapılarının yıkılacağı yönündeki duyumları ile dava açmaları sonucunda yürütmenin durdurulması kararı verilebileceği şeklinde bir yorum yapılabilmesi artık mümkündür. Ancak tekraren esas olanın yıkım işleminin tesis edilmiş olması olduğunu ve kanunun bunu şart koştuğunu tekrar hatırlatmakta fayda bulunmaktadır.
   
 Bütün bu teknik süreçle ilgili olarak, ilçemizde görev yapan Avukatlardan profesyonel yardım ve hizmet almanızda fayda bulunmaktadır. Hasar tespitine itiraz sürecinden farklı olarak, işbu davalarda olaya özgü çok fazla değişken bulunduğundan, matbu bir dilekçe ile dava açılması hak kayıplarına yol açabilecektir.
