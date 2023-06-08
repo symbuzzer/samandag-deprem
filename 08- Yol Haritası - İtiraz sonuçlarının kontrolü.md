@@ -1,8 +1,8 @@
 # İtiraz sonuçlarını kontrol etme  
-## Son güncelleme: 01/06/2023 - Bu yazı yeni gelişmeler oldukça güncellenecektir.  
+## Son güncelleme: 08/06/2023 - Bu yazı yeni gelişmeler oldukça güncellenecektir.  
   
-*(01/06/2023 tarihinde ekleme yapılmıştır.)*  
-30/05/2023 tarihi itibariyle e-devlet üzerinden halen itiraz sonuçlarını göremesek de, muhtarlıklara itiraz sonuçlarını gösterir listeler verilmiş durumda. Yapınızın bulunduğu yer muhtarlığından askı kodunuz veya adresinizle itiraz sonucunu öğrenebilirsiniz.  
+*(01/06/2023 tarihinde ekleme yapılmıştır, 08/06/2023 tarihinde güncellenmiştir.)*  
+30/05/2023 tarihi itibariyle e-devlet üzerinden halen itiraz sonuçlarını göremesek de, muhtarlıklara itiraz sonuçlarını gösterir listeler verilmiş durumda. Yapınızın bulunduğu yer muhtarlığından askı kodunuz veya adresinizle itiraz sonucunu öğrenebilirsiniz. 02/06/2023 tarihinden beridir de e-devlet üzerinden itiraz ve kesin hasar tespiti sonuçlarını görebilmekteyiz.
   
 İtiraz sonuçlarının e-devlet üzerinden sürekli olarak kontrol edilmesinde fayda bulunmaktadır. Zira itiraz sonuçlarının askıya çıkarılmasına ilişkin yasal bir zorunluluk bulunmadığından, sonuçların şimdilik sadece e-devlet üzerinden öğrenilebileceği sonucuna ulaşılmaktadır.
   
