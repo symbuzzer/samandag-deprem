@@ -1,5 +1,5 @@
 # Kesin hasar tespiti sonucuna karşı dava açma  
-## Son güncelleme: 01/06/2023 - Bu yazı yeni gelişmeler oldukça güncellenecektir.  
+## Son güncelleme: 08/06/2023 - Bu yazı yeni gelişmeler oldukça güncellenecektir.  
   
 Uzun bir aradan sonra tekrar merhaba. Nihayet hasar tespit süreci yakın zamanda sona erecek gibi görünüyor. Sonraki aşamalarda vatandaşların ihtiyaç duyması halinde "hak sahipliği" hukuki statüsüne değinilebilir duruma göre, bilemiyorum. Ancak itiraz üzerine yapılan hasar tespit sonucundan memnun olmayanlar için bir sonraki aşamaya geçmeden önce işbu yazıyı hazırlama gereği duyduk.  
   
@@ -20,7 +20,7 @@ Hatay Barosunca gönderilen bu yazıya Hatay Valiliğince cevap verilmesi halind
   
 ![](https://github.com/symbuzzer/samandag-deprem/blob/main/i%C3%A7erikler/resim-defne-yıkım-ilanı-örnek.png?raw=true)  
   
-*(01/06/2023 tarihinde ekleme yapılmıştır.)*  
-İdare Mahkemesi, yıkım işlemi olmadan sadece ağır hasar tespitine dayanılarak yıkım gerçekleştirileceği yönünde duyum alınmış olması iddiası ile yürütmenin durdurulması yönünde karar vermiştir. Dolayısıyla yapısı ağır hasarlı olan vatandaşların yapılarının yıkılacağı yönündeki duyumları ile dava açmaları sonucunda yürütmenin durdurulması kararı verilebileceği şeklinde bir yorum yapılabilmesi artık mümkündür. Ancak tekraren esas olanın yıkım işleminin tesis edilmiş olması olduğunu ve kanunun bunu şart koştuğunu tekrar hatırlatmakta fayda bulunmaktadır.
+*(01/06/2023 tarihinde ekleme yapılmıştır, 08/06/2023 tarihinde güncellenmiştir.)*  
+İdare Mahkemesi, yıkım işlemi olmadan sadece ağır hasar tespitine dayanılarak yıkım gerçekleştirileceği yönünde duyum alınmış olması iddiası ile yürütmenin durdurulması yönünde karar vermiştir. Dolayısıyla yapısı ağır hasarlı olan vatandaşların yapılarının yıkılacağı yönündeki duyumları ile dava açmaları sonucunda yürütmenin durdurulması kararı verilebileceği şeklinde bir yorum yapılabilmesi artık mümkündür. Ancak tekraren esas olanın yıkım işleminin tesis edilmiş olması olduğunu ve kanunun bunu şart koştuğunu tekrar hatırlatmakta fayda bulunmaktadır. Yıkım işlem tesis edilmeden dava açılması tarafımızca önerilmemektedir.
   
 Bütün bu teknik süreçle ilgili olarak, ilçemizde görev yapan Avukatlardan profesyonel yardım ve hizmet almanızda fayda bulunmaktadır. Hasar tespitine itiraz sürecinden farklı olarak, işbu davalarda olaya özgü çok fazla değişken bulunduğundan, matbu bir dilekçe ile dava açılması hak kayıplarına yol açabilecektir.
