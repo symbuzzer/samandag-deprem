@@ -10,4 +10,4 @@
 - DASK başvurusunun en kısa sürede yapılması gerektiğine ilişkin bilgilendirme: https://dask.gov.tr/tr/zds-bilgilendirme-uyarilar
 - DASK başvurusunda süre kısıtlamasının uygulanmadığına dair haber: https://www.aa.com.tr/tr/asrin-felaketi/dask-hasar-ihbarinda-sure-kisitlamasi-uygulanmamaktadir/2817561
 - Türk Medeni Kanunu: https://www.mevzuat.gov.tr/mevzuatmetin/1.5.4721.pdf  
-- Samandağ ilçesinde itiraz edilmeyen ve yıkılacak olan ağır hasarlı yapıların listesi: http://www.samandag.gov.tr/ilcemizde-itiraz-edilmeyen-ve-yikilacak-olan-agir-hasarli-yapilarin-listesi
+- Afet Riski Altındali Alanların Dönüştürülmesi Hakkında Kanun: https://www.mevzuat.gov.tr/mevzuatmetin/1.5.6306.pdf
